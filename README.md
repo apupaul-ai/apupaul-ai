@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:58A6FF&height=200&section=header&text=Apu%20Paul&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:58A6FF&height=200&section=header&text=Apu%20Paul&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Computing+%26+Information+Systems+Student;Turning+complex+data+into+intelligent+solutions;Currently+exploring+Big+Data+Analytics;Always+learning%2C+always+building" alt="Typing SVG" />
 
