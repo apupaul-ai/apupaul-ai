@@ -18,19 +18,25 @@
 <tr>
 <td width="60%" valign="top">
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 🚀 About me
 
-- 🎓 Studying **Computing & Information Systems** at **Daffodil International University**
-- 🔬 Researching **Fraud Detection in Digital Payments Using Big Data Analytics**
-- 🧠 Learning **advanced Machine Learning, Big Data Analytics & Spring Boot**
-- 🐍 Practicing **Python** daily — from fundamentals to real mini-projects
-- 🎨 Building small creative web projects, deployed via **Netlify Drop**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/apu-paul-347680419) or by [mail](mailto:apupaul7666100@gmail.com)
+<table>
+<tr><td>🎓</td><td><b>Studying</b></td><td>Computing &amp; Information Systems at Daffodil International University</td></tr>
+<tr><td>🔬</td><td><b>Researching</b></td><td>Fraud Detection in Digital Payments Using Big Data Analytics</td></tr>
+<tr><td>🧠</td><td><b>Learning</b></td><td>advanced Machine Learning, Big Data Analytics &amp; Spring Boot</td></tr>
+<tr><td>🐍</td><td><b>Practicing</b></td><td>Python daily — from fundamentals to real mini-projects</td></tr>
+<tr><td>🎨</td><td><b>Building</b></td><td>small creative web projects, deployed via Netlify Drop</td></tr>
+<tr><td>📫</td><td><b>Reach me</b></td><td><a href="https://www.linkedin.com/in/apu-paul-347680419">LinkedIn</a> or by <a href="mailto:apupaul7666100@gmail.com">mail</a></td></tr>
+</table>
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif" width="260"/>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="260"/>
 
 </td>
 </tr>
