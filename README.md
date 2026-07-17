@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=apupaul-ai&label=Profile%20views&color=0e75b6&style=flat" alt="apupaul-ai" />
-  <a href="https://www.buymeacoffee.com/apupaul"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
 - 🎓 I'm currently studying **Computing & Information Systems** at **Daffodil International University**
@@ -14,20 +13,6 @@
 - 📫 How to reach me: you can write me on [linkedin](https://www.linkedin.com/in/apu-paul-347680419) or by [mail](mailto:apupaul7666100@gmail.com)
 
 <br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apupaul-ai/apupaul-ai/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apupaul-ai/apupaul-ai/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/apupaul-ai/apupaul-ai/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/apu-paul-347680419" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:apupaul7666100@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -42,17 +27,22 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/apu-paul-347680419" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:apupaul7666100@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/apupaul-ai/apupaul-ai/output/github-stats.svg" alt="Apu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apupaul-ai&show_icons=true&theme=radical&hide_border=true" alt="Apu's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/apupaul-ai/apupaul-ai/output/top-languages.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apupaul-ai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
